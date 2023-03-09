@@ -7,9 +7,9 @@ We have submitted our paper to ICIP 2023, and the paper will soon be published o
 The evauluation results on Fivek are as follows
 | Method | PSNR | SSIM | LOE | LPIPS |
 | :-- | :--: | :--: | :--: | :--: |
-| LIME | 18.19 | 0.671 | 290.25 | 0.144 |
-| JED | 19.17 | 0.702 | 221.72| 0.137 |
-| KinD++ | 18.52 | 0.701 | 384.40 | 0.128 |
-| RetinexNet | 16.71 | 0.626 | 641.41 | 0.195 |
-| RUAS | 17.91 | 0.633 | 162.53 | 0.139 |
-| **LLIEFormer (Ours)** | **24.60** | **0.768** | **125.98** | **0.068** |
+| JED | 19.29 | 0.717 | 222.15 | 0.126 |
+| LIME | 17.55 | 0.689 | 296.72| 0.125 |
+| KinD++ | 19.23 | 0.754 | 345.99 | 0.098 |
+| RetinexNet | 17.78 | 0.712 | 496.74 | 0.136 |
+| RUAS | 16.10 | 0.614 | 239.36 | 0.150 |
+| **LLIEFormer (Ours)** | **24.97** | **0.816** | **90.65** | **0.062** |
